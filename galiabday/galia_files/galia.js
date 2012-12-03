@@ -73,7 +73,7 @@
 
   text1 = "Happy Birthday!!!";
 
-  text2 = "★ עד מאה שלושים ושמונה לפחות ★";
+  text2 = "★ עד מאה שלושים ושש לפחות ★";
 
   drawText = function(ctx, rotation, size, height) {
     var size2, textWidth, y1;
